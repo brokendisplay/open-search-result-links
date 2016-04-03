@@ -4,6 +4,7 @@ Specify a workbook (.xlsx) and the target column and this script will load each 
 ## To do ##
 If going the route of opening every link, then inspecting results as a whole at the end:
 - Halt for some time before opening the next link
+
 If going the route of performing the task through CLI rather than in Microsoft Excel:
 - Present the user with three questions after each link opens, with the response set to change the color of the corresponding row
     - Is the link safe?
